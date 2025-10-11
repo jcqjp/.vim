@@ -10,7 +10,7 @@ colorscheme onedark
 syntax on
 set showmatch
 " set relativenumber
-" set number
+set number
 " set cursorline
 
 " ======= ONE DARK INSTRUCTIONS =======
