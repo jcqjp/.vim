@@ -13,6 +13,12 @@ set showmatch
 set number
 " set cursorline
 
+" for statusbar plugin
+set laststatus=2
+let g:lightline = {
+  \ 'colorscheme': 'one',
+  \ }
+
 " ======= ONE DARK INSTRUCTIONS =======
 " URL
 " https://github.com/joshdick/onedark.vim
